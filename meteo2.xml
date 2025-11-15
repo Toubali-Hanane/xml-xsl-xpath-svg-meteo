@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="meteo.xsd">
+    <mesure date="2025-11-10">
+        <ville nom="Casablanca" temperature="20"/>
+        <ville nom="Marrakech" temperature="30"/>
+        <ville nom="Mohammedia" temperature="22"/>
+        <ville nom="Tanger" temperature="21"/>
+        <ville nom="Agadir" temperature="26"/>
+        <ville nom="Laayoune" temperature="38"/>
+        <ville nom="Oujda" temperature="31"/>
+    </mesure>
+    <mesure date="2025-11-13">
+        <ville nom="Casablanca" temperature="23"/>
+        <ville nom="Marrakech" temperature="33"/>
+        <ville nom="Mohammedia" temperature="22"/>
+        <ville nom="Tanger" temperature="20"/>
+        <ville nom="Agadir" temperature="27"/>
+        <ville nom="Laayoune" temperature="36"/>
+        <ville nom="Oujda" temperature="30"/>
+    </mesure>
+</meteo>
